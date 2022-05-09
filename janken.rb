@@ -64,3 +64,4 @@ end
 
 # input_hand !=(:g && :c && :p)
 # p "(press g : グー, c : チョキ, p : パー)"
+
